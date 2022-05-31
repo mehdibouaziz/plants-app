@@ -1,0 +1,33 @@
+
+{
+    "0001":
+        {   
+            "url": "https://www.thespruce.com/grow-areca-palms-indoors-1902876",
+            "img": "https://live.staticflickr.com/8035/8024092319_e2157cde4b_b.jpg",
+            "name": "Areca Palm",
+            "sci_name": "DYPSIS LUTESCENS",
+            "description" : "",
+            "watering": "Let the soil dry out slightly between waterings. Idealy water with rainwater",
+            "light" : "Bright light exposure from a south- or west-facing window"
+        },
+    "0002":
+        {   
+            "url": "https://www.thespruce.com/tree-philodendron-profile-5186937",
+            "img": "http://2.bp.blogspot.com/_RxKTB2LvppM/SvECXOgeWTI/AAAAAAAAARE/KxtBDn_WywQ/s400/Selloum+1a.JPG",
+            "name": "Tree Philodendron",
+            "sci_name": "Philodendron bipinnatifidum",
+            "description" : "",
+            "watering": "Water when the top soil is dry. The tree philodendron does not tolerate drought and grows best with consistent watering.",
+            "light" : "Part shade; avoid direct full sun"
+        },
+    "9999":
+        {   
+            "url": "https://www.hervecuisine.com/en/recipe/best-recipe-for-fluffy-french-crepes-by-herve-cuisine/",
+            "img": "https://farm8.staticflickr.com/7156/6703282971_9afd0afbba_z.jpg",
+            "name": "Jade Tree",
+            "sci_name": "CRASSULA OVATA",
+            "description" : "",
+            "watering": "No schedule, water when top soil is dry",
+            "light" : "Bright, indirect sunlight. Harsh light can scorch young, immature plants or cause the leaves of older ones to turn red."
+        }
+}
